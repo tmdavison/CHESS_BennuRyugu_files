@@ -1,0 +1,33 @@
+
+'Output Directory Name                 ' 'Bennu_1e2Pa_0300Myr',
+'Data directory name                   ' '/data1/tmd02/Projects/Bennu/CHESS/dat' 
+'Parent body diameter (km)             ' 0.525000D0
+'Dual scaling (0 or 1)                 ' 0
+'Porosity (fraction)                   ' 0.40D0
+'Solid density (kg/m^3)                ' 2100.D0
+'Strength (cohesion, Pa)               ' 1.0D2
+'Gravity scaling constant C_D          ' 1.54D0
+'Scaling constant beta ( = mu/(2+mu) ) ' 0.180328D0
+'Strength scaling constant H_2 (= k_1) ' 0.4D0
+'Density scaling constant nu           ' 0.4D0
+'Scaling constant big B (disruption)   ' 5.70D-7
+'Scaling constant small B (disruption) ' 1.22D0
+'Ejecta constant C1                    ' 1.06D0
+'Ejecta constant n_2                   ' 1.D0
+'Ejecta constant p                     ' 0.3D0
+'Disruption scaling vel (J=5e3, LS=1e3)' 1.D3
+'Number of iterations (no of parents)  ' 10000
+'Start time (in years)                 ' 4.2000D+09
+'End time (in years)                   ' 4.5D9
+'Collisional evo. model cjs1/cjs2/ejs1 ' cjs2
+'v/Pi file (results/ceres/vesta/4.5GYr)' 4.5Gyr_ab
+'Output step (-ve is scaled by iternum)' -10
+'Timestep limiter (< 1)                ' 0.5D0
+'Use angle scaling? (0=yes,>0=angle)   ' 0
+'Angle scaling parameter a             ' 1.0575D0
+'Angle scaling parameter b             ' 0.8243D0
+'Random num gen seed (need to change)  ' 489
+'Write size bins for each parent? (1=y)' 0
+'Write crater diameters for all impacts' 1
+'Fixed(0) or Variable(1) parent mass   ' 1
+'Skip non-disr (1) or small-crater (2) ' 2
